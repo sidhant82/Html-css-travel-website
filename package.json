@@ -1,0 +1,35 @@
+{
+  "name": "outdoors",
+  "version": "1.0.0",
+  "description": "A travel website build completely using html and sass",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhant2709/html-css-travel-website.git"
+  },
+  "author": "sidhant kumar sahoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidhant2709/html-css-travel-website/issues"
+  },
+  "homepage": "https://github.com/sidhant2709/html-css-travel-website#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.4",
+    "browser-sync": "^2.27.9",
+    "cssnano": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
+    "postcss": "^8.4.12",
+    "sass": "^1.45.1"
+  }
+}

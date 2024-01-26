@@ -1,0 +1,4 @@
+yarn global add gulp-cli
+npm install -g gulp
+gulp -v
+gulp
